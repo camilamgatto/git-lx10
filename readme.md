@@ -20,7 +20,7 @@ Cuando trabajamos con GIT, debemos tener en cuenta que el proceso para registrar
 2. ***STAGING AREA:*** El area de control de cambios, tambien llamada index, se utiliza para realizar las capturas de codigo (SNAPSHOT) que luego deberan ser confirmadas si corresponde.
 3. ***REPOSITORY:*** El almacen de cambios corresponde a una carpeta oculta que registra todo en archivos BLOB (Binary Large Object), y que podemos consultar utilizando el historial de confirmaciones.
 
-## Repositorios Remotos
+## Gestion de Repositorios Remotos
 
 Normalmente todos los cambios realizados se van a gestionar de manera local, pero una vez recopilado un conjunto de estos, necesitaremos publicar dichas modificaciones en un servidor git.Esto sucede principalmente para que podamos acceder a dicho repositorio desde cualquier ubicacion y tengamos una copia, a modo respaldo, de nuestro proyecto.
 
