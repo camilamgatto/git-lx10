@@ -12,6 +12,14 @@ Dicha informacion es necesaria para realizar los commits y ademas sirve para que
 * __git config user.name 'name'__: define el nombre del usuario del colaborador para el proyecto.
 * __git config user.email 'email'__ : define el correo de contacto.
 
+##AREAS DE GIT
+
+Cuando trabajamos con GIT, debemos tener en cuenta que el proceso para registrar los cambios se divide en etapas, las cuales corresponden a las diferentes areas que se detallan a continuacion:
+
+1. ***WORKING DIRECTORTY:*** El area de trabajo corresponde a la carpeta donde creamos el repositorio y vamos a crear, editar y/o eliminar los archivos que forman parte del proyecto.
+2. ***STAGING AREA:*** El area de control de cambios, tambien llamada index, se utiliza para realizar las capturas de codigo (SNAPSHOT) que luego deberan ser confirmadas si corresponde.
+3. ***REPOSITORY:*** El almacen de cambios corresponde a una carpeta oculta que registra todo en archivos BLOB (Binary Large Object), y que podemos consultar utilizando el historial de confirmaciones.
+
 ---
 
 ##Contacto
