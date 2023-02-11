@@ -4,6 +4,7 @@ temp/
 tmp/
 logs/
 node_modules/
+<<<<<<< HEAD
 modules/
 
 # Archivos Ignorados
@@ -14,3 +15,6 @@ modules/
 *.txt
 *.swp
 log_*.md
+=======
+modules/
+>>>>>>> 352539134f0078a1ba897a38de6b06704f26e30b
